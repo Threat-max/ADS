@@ -1,2 +1,23 @@
 # ADS
 assignment1
+Arsen Tolendi SE-2512
+Project OverviewThis project contains solutions for 10 algorithmic tasks focused on the concept of recursion in Java. Each task is implemented without the use of any iterative loops (for, while, do-while), as per the assignment requirements.Implementation DetailsAll tasks are separated into individual classes (Task1, Task2, etc.) to ensure clarity and modularity. Each class contains:A main method for handling user input via Scanner.A recursive function with clearly defined base cases and recursive steps.Tasks SummaryPart 1: Recursion with NumbersTask 1 (Print Digits): Prints each digit of a number on a new line using recursion.Task 2 (Average): Calculates the sum of array elements recursively and returns the average.Task 3 (Prime Check): Determines if a number is prime by recursively checking divisors.Task 4 (Factorial): Computes $n!$ using the recursive formula $n \times (n-1)!$.Part 2: Recursion with SequencesTask 5 (Fibonacci): Returns the $n$-th Fibonacci number using $F_n = F_{n-1} + F_{n-2}$.Task 6 (Power): Calculates $a^n$ recursively.Task 7 (Reverse Output): Reads $n$ numbers and prints them in reverse order using the recursion stack (no arrays used).Part 3: Recursion with StringsTask 8 (Check Digits): Recursively checks if a string consists only of digits.Task 9 (Count Characters): Returns the total length of a string using recursion.Task 10 (GCD): Finds the Greatest Common Divisor of two numbers using the Euclidean Algorithm.<img width="1919" height="1079" alt="Снимок экрана 2026-03-22 190111" src="https://github.com/user-attachments/assets/ffb2d1f5-f240-4581-9e60-23ae5fb9e3c1" />
+<img width="1919" height="1079" alt="Снимок экрана 2026-03-22 210519" src="https://github.com/user-attachments/assets/fa6d47e0-db8f-4b3c-a84b-14f610657756" />
+<img width="1919" height="1079" alt="Снимок экрана 2026-03-22 210515" src="https://github.com/user-attachments/assets/8274bc1b-3b32-4d59-92ee-d7818d73ca66" />
+<img width="1919" height="1079" alt="Снимок экрана 2026-03-22 210316" src="https://github.com/user-attachments/assets/60ed7198-78da-4581-af31-9e996dd8c397" />
+<img width="1919" height="1079" alt="Снимок экрана 2026-03-22 210310" src="https://github.com/user-attachments/assets/68695cf4-2e06-4643-aa26-b62d00943e96" />
+<img width="1919" height="1079" alt="Снимок экрана 2026-03-22 210036" src="https://github.com/user-attachments/assets/b04ec481-00f5-493c-9055-7abb75005568" />
+<img width="1919" height="1079" alt="Снимок экрана 2026-03-22 210028" src="https://github.com/user-attachments/assets/12230781-f877-4512-b88c-699a5881f699" />
+<img width="1919" height="1079" alt="Снимок экрана 2026-03-22 205251" src="https://github.com/user-attachments/assets/3041af9a-cb57-4364-a269-f666f81bcbfe" />
+<img width="1919" height="1079" alt="Снимок экрана 2026-03-22 205245" src="https://github.com/user-attachments/assets/40f2ec9d-964f-428f-961b-1558a9330fdb" />
+<img width="1919" height="1079" alt="Снимок экрана 2026-03-22 205015" src="https://github.com/user-attachments/assets/d00ebe0e-e16f-41c2-89fa-4f6c6c29c8b5" />
+<img width="1919" height="1079" alt="Снимок экрана 2026-03-22 205008" src="https://github.com/user-attachments/assets/dd534163-8eb0-4f25-9a4a-92731014bbb2" />
+<img width="1919" height="1079" alt="Снимок экрана 2026-03-22 204306" src="https://github.com/user-attachments/assets/ab52948c-e0d5-42e6-9c7b-8d5e7516c22e" />
+<img width="1919" height="1079" alt="Снимок экрана 2026-03-22 204300" src="https://github.com/user-attachments/assets/2e37a2c8-9488-418b-bde7-f1130b992d47" />
+<img width="1919" height="1079" alt="Снимок экрана 2026-03-22 204126" src="https://github.com/user-attachments/assets/dbb8866c-c99f-4947-9f4d-b78afa3f61f4" />
+<img width="1919" height="1079" alt="Снимок экрана 2026-03-22 204120" src="https://github.com/user-attachments/assets/5ac41230-8d56-489b-bbd1-68ce180a6867" />
+<img width="1919" height="1079" alt="Снимок экрана 2026-03-22 203712" src="https://github.com/user-attachments/assets/e889bcbd-0db0-4201-95f3-b277344162a5" />
+<img width="1919" height="1079" alt="Снимок экрана 2026-03-22 203706" src="https://github.com/user-attachments/assets/299d06ef-e59f-4400-9598-13b3998ebce0" />
+<img width="1919" height="1079" alt="Снимок экрана 2026-03-22 203026" src="https://github.com/user-attachments/assets/1eee9686-c1ed-46fd-ba66-ba3caf95e077" />
+<img width="1919" height="1079" alt="Снимок экрана 2026-03-22 202956" src="https://github.com/user-attachments/assets/5f976a32-04e5-4f27-8769-f0b28e3598fa" />
+<img width="1919" height="1079" alt="Снимок экрана 2026-03-22 190119" src="https://github.com/user-attachments/assets/5e8e1496-a849-4a60-87fa-eec43c2ac770" />
